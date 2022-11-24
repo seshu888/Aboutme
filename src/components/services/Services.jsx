@@ -14,27 +14,19 @@ const services = () => {
           <ul className='services_list'>
             <li>
               <BiCheck className='sercice_list-icon'/>
-              <p>Lorem,epsum dolor sit amet conssectuetur elit</p>
+              <p>Responsive Sites</p>
             </li>
             <li>
               <BiCheck className='sercice_list-icon'/>
-              <p>Lorem,epsum dolor sit amet conssectuetur elit</p>
+              <p>Making Perfect Figma Design</p>
             </li>
             <li>
               <BiCheck className='sercice_list-icon'/>
-              <p>Lorem,epsum dolor sit amet conssectuetur elit</p>
+              <p>HTML5 an CSS3</p>
             </li>
             <li>
               <BiCheck className='sercice_list-icon'/>
-              <p>Lorem,epsum dolor sit amet conssectuetur elit</p>
-            </li>
-            <li>
-              <BiCheck className='sercice_list-icon'/>
-              <p>Lorem,epsum dolor sit amet conssectuetur elit</p>
-            </li>
-            <li>
-              <BiCheck className='sercice_list-icon'/>
-              <p>Lorem,epsum dolor sit amet conssectuetur elit</p>
+              <p>BootStrap</p>
             </li>
           </ul>
         </article>

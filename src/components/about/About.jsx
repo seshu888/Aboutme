@@ -32,9 +32,8 @@ const About = () => {
               <span>3 </span>
             </article>
           </div>
-          <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
-          Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-           when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+          <p>Experience on up to date advance web development technologies React JS, ES6, JavaScript,Bootstrap, CSS, HTML5, Material UI, NPM, GIT etc.
+        Skilled in designing and implementing end-to-end solutions with well organized andmaintainable code.</p>
            <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>    
